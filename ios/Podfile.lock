@@ -1,0 +1,41 @@
+PODS:
+  - Flutter (1.0.0)
+  - moyasar (0.0.1):
+    - Flutter
+  - pay_ios (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - moyasar (from `.symlinks/plugins/moyasar/ios`)
+  - pay_ios (from `.symlinks/plugins/pay_ios/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  moyasar:
+    :path: ".symlinks/plugins/moyasar/ios"
+  pay_ios:
+    :path: ".symlinks/plugins/pay_ios/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  moyasar: 30b2c9a51bdecbe895dda349ffb2f6a4df6a27ec
+  pay_ios: 8c7beb9c61d885f3f51b61f75f8793023fc8843a
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+  webview_flutter_wkwebview: 2a23822e9039b7b1bc52e5add778e5d89ad488d1
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.13.0
